@@ -2844,6 +2844,112 @@ section.lazy-placeholder:after {
 .cid-s1ONPTMeGO H2 {
   text-align: left;
 }
+.cid-s1P3f01inO {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1P3f01inO .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-s1P3f01inO H2 {
+  text-align: left;
+}
+.cid-s1P3lGQ3zd {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1P3lGQ3zd .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-s1P3GSwSGf {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f9f9f9;
+}
+.cid-s1P3GSwSGf .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1P3GSwSGf .container-table {
+  margin: 0 auto;
+}
+.cid-s1P3GSwSGf .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-s1P3GSwSGf .dataTables_wrapper {
+  display: block;
+}
+.cid-s1P3GSwSGf .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-s1P3GSwSGf .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-s1P3GSwSGf table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-s1P3GSwSGf table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-s1P3GSwSGf table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-s1P3GSwSGf table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-s1P3GSwSGf table.table {
+  background: #ffffff;
+}
+.cid-s1P3GSwSGf .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-s1P3GSwSGf .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-s1P3GSwSGf .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-s1P3GSwSGf .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-s1P3GSwSGf .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-s1P3GSwSGf .dataTables_filter {
+    text-align: center;
+  }
+  .cid-s1P3GSwSGf .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-s1P3GSwSGf .body-item {
+  text-align: center;
+}
+.cid-s1P3GSwSGf .head-item {
+  text-align: center;
+}
 .cid-s1OP0omjcW {
   padding-top: 30px;
   padding-bottom: 30px;
